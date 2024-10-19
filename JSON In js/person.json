@@ -1,0 +1,7 @@
+{
+    "name":"rahul",
+    "age" : 33,
+    "email":"amarjeetsingh@gmail.com",
+    "isemp" : true,
+    "hobbies": ["singing","cricket","cooking"]
+}

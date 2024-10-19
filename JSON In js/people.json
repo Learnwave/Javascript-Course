@@ -1,0 +1,21 @@
+[{
+    "name":"rahul",
+    "age" : 33,
+    "email":"amarjeetsingh@gmail.com",
+    "isemp" : true,
+    "hobbies": ["singing","cricket","cooking"]
+},
+{
+    "name":"Mohit",
+    "age" : 22,
+    "email":"mohit@gmail.com",
+    "isemp" : true,
+    "hobbies": ["singing","cricket","cooking"]
+},
+{
+    "name":"Komal",
+    "age" : 23,
+    "email":"komal@gmail.com",
+    "isemp" : true,
+    "hobbies": ["singing","cricket","cooking"]
+}]
